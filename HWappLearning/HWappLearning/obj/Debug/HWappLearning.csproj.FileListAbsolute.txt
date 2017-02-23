@@ -7,3 +7,6 @@ c:\users\gustavo.arismendi\documents\visual studio 2015\Projects\HWappLearning\H
 C:\Users\gustavo.arismendi\Source\Repos\GitPlay\HWappLearning\HWappLearning\bin\Debug\HWappLearning.exe.config
 C:\Users\gustavo.arismendi\Source\Repos\GitPlay\HWappLearning\HWappLearning\obj\Debug\HWappLearning.exe
 C:\Users\gustavo.arismendi\Source\Repos\GitPlay\HWappLearning\HWappLearning\obj\Debug\HWappLearning.pdb
+C:\Users\gustavo.arismendi\Source\Repos\GitPlay\HWappLearning\HWappLearning\bin\Debug\HWappLearning.exe
+C:\Users\gustavo.arismendi\Source\Repos\GitPlay\HWappLearning\HWappLearning\bin\Debug\HWappLearning.pdb
+C:\Users\gustavo.arismendi\Source\Repos\GitPlay\HWappLearning\HWappLearning\obj\Debug\HWappLearning.csprojResolveAssemblyReference.cache
