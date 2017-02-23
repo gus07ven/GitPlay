@@ -15,6 +15,10 @@ namespace HWappLearning
 
             Console.WriteLine("Let's change some stuff in here!");
             Console.ReadLine();
+
+            Console.WriteLine("I'm adding my first feature!");
+            Console.ReadLine();
+
         }
     }
 }
