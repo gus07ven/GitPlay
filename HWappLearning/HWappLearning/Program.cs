@@ -13,6 +13,8 @@ namespace HWappLearning
             Console.WriteLine("Hello world!");
             Console.ReadLine();
 
+            Console.WriteLine("Let's change some stuff in here!");
+            Console.ReadLine();
         }
     }
 }
