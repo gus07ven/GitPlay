@@ -1,0 +1,6 @@
+c:\users\gustavo.arismendi\documents\visual studio 2015\Projects\HWappLearning\HWappLearning\bin\Debug\HWappLearning.exe.config
+c:\users\gustavo.arismendi\documents\visual studio 2015\Projects\HWappLearning\HWappLearning\bin\Debug\HWappLearning.exe
+c:\users\gustavo.arismendi\documents\visual studio 2015\Projects\HWappLearning\HWappLearning\bin\Debug\HWappLearning.pdb
+c:\users\gustavo.arismendi\documents\visual studio 2015\Projects\HWappLearning\HWappLearning\obj\Debug\HWappLearning.csprojResolveAssemblyReference.cache
+c:\users\gustavo.arismendi\documents\visual studio 2015\Projects\HWappLearning\HWappLearning\obj\Debug\HWappLearning.exe
+c:\users\gustavo.arismendi\documents\visual studio 2015\Projects\HWappLearning\HWappLearning\obj\Debug\HWappLearning.pdb
